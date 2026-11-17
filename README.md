@@ -1,4 +1,4 @@
-
+![Shujinko vs Chelebrimbor - Powered by Rust](./assets/rpg_rust.jpg)
 
 # ⚔️ Shujinko vs Chelebrimbor: Terminal RPG
 
