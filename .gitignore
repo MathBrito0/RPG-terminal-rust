@@ -1,1 +1,7 @@
-/target
+# Ignora a pasta de compilação gerada pelo Cargo (pesada e desnecessária)
+/target/
+
+# Arquivos temporários de IDEs (opcional, mas recomendado)
+.vscode/
+.idea/
+*.rs.bk
